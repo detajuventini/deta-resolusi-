@@ -2,3 +2,4 @@ Deta Resolusi:
 - Konsisten untuk belajar Golang sehari 1 jam
 - Konsisten untuk belajar Github
 - Konsisten untuk belajar Flutter
+- Mendapatkan pekerjaan sebagai Golang Developer (remote) dgn gaji puluhan/ratusan juta perbulan
